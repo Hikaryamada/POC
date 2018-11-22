@@ -1,0 +1,23 @@
+{
+  "name": "naturapoc",
+  "version": "1.0.0",
+  "description": "POC - Node.JS - Projeto Natura",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hikaryamada/POC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hikaryamada/POC/issues"
+  },
+  "homepage": "https://github.com/Hikaryamada/POC#readme",
+  "dependencies": {
+    "express": "4.16.4",
+    "nodemon": "1.18.6"
+  }
+}
